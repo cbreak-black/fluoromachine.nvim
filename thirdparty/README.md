@@ -41,6 +41,11 @@ The configuration can be copied into the tmux config file or loaded via
 source-file ~/.tmux/fluoromachine.conf
 ```
 
+## btop
+
+The theme can be placed into the `btop` config directory's themes directory.
+
+
 ## zsh-powerlevel10k prompt
 
 The powerlevel10k prompt config file is very extensive, copy the provided file
